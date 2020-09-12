@@ -1,2 +1,2 @@
 # terraform
-All about terraform
+All about Terraform
