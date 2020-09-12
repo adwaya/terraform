@@ -38,3 +38,5 @@ The nodes will be in _NotReady_ state as it doesn’t have any pod network in th
 OR
 
 `kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml`
+
+- Now check the status of the nodes `kubectl get nodes`
